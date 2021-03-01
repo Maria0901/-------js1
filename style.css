@@ -1,0 +1,5 @@
+.border-red {
+    border-color: red;
+    box-shadow: 0 0 2px #ff2424;
+    border-radius: 3px;
+}
